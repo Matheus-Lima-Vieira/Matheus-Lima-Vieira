@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Lima Silva Vieira  
 
-<!--
-**Matheus-Lima-Vieira/Matheus-Lima-Vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para a área de **Quality Assurance (QA)**  
+💻 Formado em **Análise e Desenvolvimento de Sistemas** 
+📚 Concluí bootcamp **Fullstack (Java e React) - Generation Brasil**  
+🔍 Atualmente estudando **Automação de Testes com Cypress**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Portfólio QA Manual
+Criei 3 projetos completos de **Teste Manual**, com **Plano de Teste, Casos de Teste e Relatório de Bugs**:
+
+1️⃣ **[SauceDemo](https://www.saucedemo.com/)**  
+2️⃣ **[Buggy Cars Rating](https://buggy.justtestit.org/)**  
+3️⃣ **[The Internet (Herokuapp)](https://the-internet.herokuapp.com/)**  
+
+📂 Repositório: Em construção
+
+---
+
+## 🛠️ Habilidades
+- Testes Manuais (planejamento, execução e reporte de bugs)  
+- Criação de Casos de Teste em Excel  
+- Reporte de Bugs em formato estruturado  
+- **Automação de Testes (iniciando com Cypress)**  
+- Versionamento com Git/GitHub  
+- Desenvolvimento Fullstack (Java | React)  
+
+---
+
+## 🌍 Onde me encontrar
+🔗 [LinkedIn](https://www.linkedin.com/in/matheuslimavieira/)  
+📂 [Portfólio GitHub](https://github.com/Matheus-Lima-Vieira)  
+
+---
+💡 *Aberto a oportunidades como QA (Manual e Automação)!*
