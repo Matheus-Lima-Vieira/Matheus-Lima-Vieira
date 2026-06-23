@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Matheus 👋
 
-<!--
-**Matheus-Lima-Vieira/Matheus-Lima-Vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Atualmente estudo Python, SQL, Ciência de Dados e Inteligência Artificial, desenvolvendo projetos práticos para fortalecer minha base em programação, automação e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e estudos atuais
+
+* Python
+* SQL
+* Git e GitHub
+* APIs REST
+* Ciência de Dados
+* Inteligência Artificial
+
+## Projetos em destaque
+
+### Controle de Gastos
+
+Projeto desenvolvido para praticar:
+
+* Entrada e saída de dados
+* Listas
+* Laços de repetição
+* Cálculos e lógica de programação
+
+### Consulta de CEP
+
+Projeto utilizando a API ViaCEP para:
+
+* Consumo de APIs
+* Tratamento de dados
+* Regex
+* JSON e dicionários
+* Validação de informações
+
+## Objetivos
+
+Atualmente estou focado em construir uma base sólida em Python e SQL, avançando gradualmente para Ciência de Dados e Inteligência Artificial através de projetos práticos.
+
+## Contato
+
+* GitHub: github.com/Matheus-Lima-Vieira
+* LinkedIn: https://www.linkedin.com/in/matheuslimavieira/
