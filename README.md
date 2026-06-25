@@ -34,7 +34,7 @@ Construir um portfólio que demonstre minha evolução como desenvolvedor, compa
 
 ---
 
-## 📈 Evolução
+## 📈 Jornada de Aprendizado
 
 ✅ Projeto 01 — Controle de Gastos
 
