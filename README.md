@@ -1,44 +1,39 @@
-# Olá, eu sou o Matheus 👋
+# 👋 Olá, eu sou o Matheus Lima!
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e utilizo este GitHub para registrar minha evolução na programação através de projetos práticos.
 
-💻 Atualmente estudo Python, SQL, Ciência de Dados e Inteligência Artificial, desenvolvendo projetos práticos para fortalecer minha base em programação, automação e análise de dados.
+Atualmente estou aprofundando meus conhecimentos em **Python**, desenvolvendo aplicações que reforçam lógica de programação, organização de código e boas práticas de desenvolvimento.
 
-## Tecnologias e estudos atuais
+Acredito que aprender na prática é uma das melhores formas de evoluir. Por isso, cada repositório representa um novo desafio, um conceito estudado e uma oportunidade de escrever um código melhor do que o anterior.
 
-* Python
-* SQL
-* Git e GitHub
-* APIs REST
-* Ciência de Dados
-* Inteligência Artificial
+---
 
-## Projetos em destaque
+## 🚀 Atualmente estudando
 
-### Controle de Gastos
+* 🐍 Python
+* 🌐 Consumo de APIs REST
+* 📂 Git e GitHub
+* 🧠 Lógica de Programação
+* 📚 Estruturas de Dados
 
-Projeto desenvolvido para praticar:
+---
 
-* Entrada e saída de dados
-* Listas
-* Laços de repetição
-* Cálculos e lógica de programação
+## 📂 Projetos
 
-### Consulta de CEP
+* 💰 **Controle de Gastos** — cadastro de despesas e cálculo de saldo.
+* 📍 **Consulta de CEP** — integração com a API ViaCEP.
+* 🎬 **Catálogo de Filmes** — sistema de cadastro e listagem em terminal.
 
-Projeto utilizando a API ViaCEP para:
+Cada projeto possui um README próprio explicando os objetivos, conceitos praticados e possíveis melhorias.
 
-* Consumo de APIs
-* Tratamento de dados
-* Regex
-* JSON e dicionários
-* Validação de informações
+---
 
-## Objetivos
+## 🎯 Meu objetivo com este GitHub
 
-Atualmente estou focado em construir uma base sólida em Python e SQL, avançando gradualmente para Ciência de Dados e Inteligência Artificial através de projetos práticos.
+Construir um portfólio que demonstre minha evolução como desenvolvedor, compartilhando projetos cada vez mais completos, organizados e bem documentados.
 
-## Contato
+---
 
-* GitHub: github.com/Matheus-Lima-Vieira
-* LinkedIn: https://www.linkedin.com/in/matheuslimavieira/
+## 📫 Contato
+
+* LinkedIn: http://www.linkedin.com/in/matheus-lima-silva-vieira
