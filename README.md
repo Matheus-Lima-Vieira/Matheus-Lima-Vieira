@@ -34,6 +34,18 @@ Construir um portfólio que demonstre minha evolução como desenvolvedor, compa
 
 ---
 
+## 📈 Evolução
+
+✅ Projeto 01 — Controle de Gastos
+
+✅ Projeto 02 — Consulta de CEP
+
+✅ Projeto 03 — Catálogo de Filmes
+
+🔄 Projeto 04 — Em desenvolvimento...
+
+---
+
 ## 📫 Contato
 
 * LinkedIn: http://www.linkedin.com/in/matheus-lima-silva-vieira
