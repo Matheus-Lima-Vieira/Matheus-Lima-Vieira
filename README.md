@@ -48,4 +48,4 @@ Construir um portfólio que demonstre minha evolução como desenvolvedor, compa
 
 ## 📫 Contato
 
-* LinkedIn: http://www.linkedin.com/in/matheus-lima-silva-vieira
+* LinkedIn: https://www.linkedin.com/in/matheuslimavieira
